@@ -6,6 +6,7 @@ Student marks analysis
 Top performer identification
 Average score calculation
 Data visualization using charts
+
 Technologies Used
 Python
 Pandas
